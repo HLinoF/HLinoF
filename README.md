@@ -17,7 +17,6 @@ Olá 👋 Tudo bem?<br>Meu nome é Hugo e sou um estudante de Desenvolvimento Ba
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fox3y&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=fox3y&icon=0&color=12)](https://visitcount.itsvg.in)
 
