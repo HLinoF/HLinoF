@@ -24,5 +24,5 @@ Olá 👋 Tudo bem?<br>Meu nome é Hugo e sou um **AI-Native Developer** e **AI 
 ![ChatGPT/OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-### 🐍 Languages & Backend
-![Python](
+### 🐍 Linguagens:
+![Python]
