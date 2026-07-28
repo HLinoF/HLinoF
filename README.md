@@ -1,15 +1,15 @@
 # 🧠 About Me:
-Olá 👋 Tudo bem?<br>Meu nome é Hugo e sou um **Java Backend Developer** do Brasil 🇧🇷<br><br>
+Olá 👋 Tudo bem?<br>Meu nome é Hugo e sou um **Software Developer** focado em **JavaScript / TypeScript** do Brasil 🇧🇷<br><br>
 
-> *"Building robust, scalable, and high-performance backend systems with Java."* ☕⚡
+> *"Building scalable systems and modern applications with solid software engineering."* ⚡
 
 ---
 🚀 **Sobre mim**
-* 🧠 **Visão:** Desenvolver arquiteturas de software sólidas, seguras e eficientes para sistemas corporativos.
-* 🛠️ **Foco Prático:** APIs RESTful, Java, Spring Boot, arquitetura de microsserviços e banco de dados.
-* ⚡ **Produtividade:** Uso IA como copiloto para acelerar o desenvolvimento, mantendo controle total sobre a lógica e a arquitetura.
-* 📚 **Atualmente aprendendo:** Ecossistema Spring (Security, Data, Cloud), padrões de projeto (Design Patterns) e SQL avançado.
-* 🎯 **Objetivo:** Criar aplicações backend de alta disponibilidade com código limpo, seguro e testável.
+* 🧠 **Visão:** Criar aplicações web completas, modernas e eficientes do backend ao frontend.
+* 🛠️ **Foco Prático:** Arquitetura de APIs, TypeScript, Node.js, banco de dados e engenharia de software.
+* ⚡ **Produtividade:** Uso IA (Cursor, Copilot, LLMs) como assistente para acelerar a escrita de código sem abrir mão do controle técnico.
+* 📚 **Atualmente aprendendo:** TypeScript avançado, arquitetura de APIs REST/GraphQL, Next.js e boas práticas de backend.
+* 🎯 **Objetivo:** Desenvolver soluções de alto impacto com código limpo, seguro e manutenível.
 
 ## 🌐 Socials: 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Olinuh_apenas)
@@ -17,13 +17,14 @@ Olá 👋 Tudo bem?<br>Meu nome é Hugo e sou um **Java Backend Developer** do B
 
 # 💻 Main Tech Stack & Tools:
 
-### ☕ Languages & Backend Frameworks:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧰 Linguagens & Frameworks:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🧰 Tools & IDEs:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🤖 AI & Development Tools:
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
