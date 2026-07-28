@@ -7,7 +7,7 @@ Olá 👋 Tudo bem?<br>Meu nome é Hugo e sou um **Software Developer** focado e
 🚀 **Sobre mim**
 * 🧠 **Visão:** Criar aplicações web completas, modernas e eficientes do backend ao frontend.
 * 🛠️ **Foco Prático:** Arquitetura de APIs, TypeScript, Node.js, banco de dados e engenharia de software.
-* ⚡ **Produtividade:** Uso IA (Cursor, Copilot, LLMs) como assistente para acelerar a escrita de código sem abrir mão do controle técnico.
+* ⚡ **Produtividade:** Uso IA (Copilot, LLMs) como assistente para acelerar a escrita de código sem abrir mão do controle técnico.
 * 📚 **Atualmente aprendendo:** TypeScript avançado, arquitetura de APIs REST/GraphQL, Next.js e boas práticas de backend.
 * 🎯 **Objetivo:** Desenvolver soluções de alto impacto com código limpo, seguro e manutenível.
 
@@ -24,7 +24,6 @@ Olá 👋 Tudo bem?<br>Meu nome é Hugo e sou um **Software Developer** focado e
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🤖 AI & Development Tools:
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
