@@ -1,28 +1,108 @@
-# 🧠 About Me:
-Olá 👋 Tudo bem?<br>Meu nome é Hugo e sou um **Java Backend Developer** do Brasil 🇧🇷<br><br>
+# 👋 Hey, I'm Hugo
 
-> *"Building robust, scalable, and high-performance backend systems with Java."* ☕⚡
+### ⚙️ Data Engineer • Data Enthusiast 🇧🇷
+
+> **Building data pipelines, working with databases, and turning raw data into something useful.**
 
 ---
-🚀 **Sobre mim**
-* 🧠 **Visão:** Desenvolver arquiteturas de software sólidas, seguras e eficientes para sistemas corporativos.
-* 🛠️ **Foco Prático:** APIs RESTful, Java, Spring Boot, arquitetura de microsserviços e banco de dados.
-* ⚡ **Produtividade:** Uso IA (Copilot, LLMs) como assistente para acelerar a escrita de código sem abrir mão do controle técnico.
-* 📚 **Atualmente aprendendo:** Ecossistema Spring (Security, Data, Cloud), padrões de projeto (Design Patterns) e SQL avançado.
-* 🎯 **Objetivo:** Criar aplicações backend de alta disponibilidade com código limpo, seguro e testável.
 
-## 🌐 Socials: 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Olinuh_apenas)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fox3y)
+## 🧠 About Me
 
-# 💻 Main Tech Stack & Tools:
+I'm a Brazilian developer currently focused on **Data Engineering**.
 
-### ☕ Languages & Backend Frameworks:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm interested in understanding the entire journey of data — from **collection and ingestion** to **processing, storage and analysis**.
 
-### 🧰 Tools & IDEs:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+My current focus is building a strong foundation in:
+
+* 🐍 **Python**
+* 🧮 **SQL**
+* 🗄️ **Databases**
+* 🔄 **ETL / ELT**
+* ⚡ **Data Processing**
+* 📊 **Data Warehousing**
+* ☁️ **Cloud Computing**
+* 🐳 **Docker & Linux**
+* 🌐 **Distributed Systems**
+
+---
+
+## 🚀 What I'm Building
+
+I want to build projects that simulate real-world data environments:
+
+```text
+📥 Data Sources
+      ↓
+🔄 Data Ingestion
+      ↓
+⚙️ Processing & Transformation
+      ↓
+🗄️ Data Storage
+      ↓
+📊 Analytics
+```
+
+My goal is to understand how to design **reliable, scalable and maintainable data pipelines**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### ⚡ Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+
+### 🐳 Tools & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 📚 Currently Learning
+
+* 🐍 Python for Data Engineering
+* 🧮 Advanced SQL
+* 🔄 ETL / ELT
+* 🗄️ Data Warehousing
+* ⚡ Apache Spark
+* 🌪️ Apache Airflow
+* ☁️ Cloud Computing
+* 🌐 Distributed Systems
+
+---
+
+## 🎯 My Goal
+
+Become a **Data Engineer** capable of designing and maintaining data systems that handle increasingly complex and large-scale workloads.
+
+### My path
+
+**Data → Engineering → Cloud → Distributed Systems → AI**
+
+---
+
+## 🌐 Connect With Me
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@Olinuh_apenas)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/fox3y)
+
+---
+
+<div align="center">
+
+### 💭 *"Good data starts with good engineering."*
+
+</div>
