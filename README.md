@@ -1,67 +1,68 @@
 # 👋 Hey, I'm Hugo
 
-### ⚙️ Data Engineer • Data Enthusiast 🇧🇷
+### ☕ Java Developer • Backend Developer • Software Engineering Enthusiast 🇧🇷
 
-> **Building data pipelines, working with databases, and turning raw data into something useful.**
+> **Building robust backend applications, scalable systems, APIs and solutions that solve real-world problems.**
 
 ---
 
 ## 🧠 About Me
 
-I'm a Brazilian developer currently focused on **Data Engineering**.
+I'm a Brazilian developer currently focused on **Java and Backend Development**.
 
-I'm interested in understanding the entire journey of data — from **collection and ingestion** to **processing, storage and analysis**.
+I'm interested in understanding how software works behind the scenes — from **business logic and APIs** to **databases, architecture and scalable systems**.
 
 My current focus is building a strong foundation in:
 
-* 🐍 **Python**
+* ☕ **Java**
+* 🌱 **Spring Boot**
 * 🧮 **SQL**
 * 🗄️ **Databases**
-* 🔄 **ETL / ELT**
-* ⚡ **Data Processing**
-* 📊 **Data Warehousing**
-* ☁️ **Cloud Computing**
+* 🔌 **REST APIs**
+* 🏗️ **Software Architecture**
+* 🧪 **Testing**
 * 🐳 **Docker & Linux**
+* ☁️ **Cloud Computing**
 * 🌐 **Distributed Systems**
 
 ---
 
 ## 🚀 What I'm Building
 
-I want to build projects that simulate real-world data environments:
+I want to build projects that simulate real-world software environments:
 
 ```text
-📥 Data Sources
-      ↓
-🔄 Data Ingestion
-      ↓
-⚙️ Processing & Transformation
-      ↓
-🗄️ Data Storage
-      ↓
-📊 Analytics
+👤 Client / Frontend
+        ↓
+🔌 REST API
+        ↓
+⚙️ Business Logic
+        ↓
+🗄️ Database
+        ↓
+☁️ Scalable Infrastructure
 ```
 
-My goal is to understand how to design **reliable, scalable and maintainable data pipelines**.
+My goal is to understand how to design **reliable, scalable, secure and maintainable software**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🐍 Programming & Data
+### ☕ Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🌱 Backend Development
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### ⚡ Data Engineering
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 
 ### 🐳 Tools & Infrastructure
 
@@ -73,12 +74,13 @@ My goal is to understand how to design **reliable, scalable and maintainable dat
 
 ## 📚 Currently Learning
 
-* 🐍 Python for Data Engineering
-* 🧮 Advanced SQL
-* 🔄 ETL / ELT
-* 🗄️ Data Warehousing
-* ⚡ Apache Spark
-* 🌪️ Apache Airflow
+* ☕ Java & Object-Oriented Programming
+* 🌱 Spring Boot
+* 🔌 REST APIs
+* 🧮 SQL & Databases
+* 🏗️ Software Architecture
+* 🧪 Automated Testing
+* 🐳 Docker
 * ☁️ Cloud Computing
 * 🌐 Distributed Systems
 
@@ -86,23 +88,24 @@ My goal is to understand how to design **reliable, scalable and maintainable dat
 
 ## 🎯 My Goal
 
-Become a **Data Engineer** capable of designing and maintaining data systems that handle increasingly complex and large-scale workloads.
+Become a **Software Developer / Backend Engineer** capable of designing and building reliable, scalable and maintainable software systems.
 
 ### My path
 
-**Data → Engineering → Cloud → Distributed Systems → AI**
+**Java → Backend → Software Engineering → Cloud → Distributed Systems → AI**
 
 ---
 
 ## 🌐 Connect With Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@Olinuh_apenas)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/fox3y)
 
 ---
 
 <div align="center">
 
-### 💭 *"Good data starts with good engineering."*
+### 💭 *"Good software starts with good engineering."*
 
 </div>
