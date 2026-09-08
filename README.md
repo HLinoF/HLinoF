@@ -47,3 +47,62 @@ I want to build projects that simulate real-world DevOps environments:
 ☁️ Cloud Infrastructure
       ↓
 📊 Monitoring & Reliability
+
+My goal is to understand how to build and maintain reliable, scalable, automated and secure infrastructure.
+
+🛠️ Tech Stack
+💻 Programming
+
+📦 Containers & Orchestration
+
+☁️ Cloud Computing
+
+🏗️ Infrastructure as Code
+
+🐧 Tools & Systems
+
+🌐 Web & Build Tools
+
+📚 Essential DevOps Concepts
+🔄 CI/CD
+📦 Containers
+🐳 Docker
+☸️ Kubernetes
+⚙️ Pipelines
+🏗️ Infrastructure as Code
+☁️ Cloud Computing
+🤖 Automation
+🔍 Monitoring
+🛠️ Platform Engineering
+📚 Currently Learning
+🐧 Linux Fundamentals
+🔀 Git & GitHub
+🐳 Docker & Containers
+🔄 CI/CD Pipelines
+☸️ Kubernetes
+☁️ AWS & Azure
+🌍 Terraform
+🤖 Ansible
+🏗️ Infrastructure as Code
+⚙️ Automation
+🛠️ Platform Engineering
+🚀 My Goal
+
+Become a DevOps Engineer / Platform Engineer capable of designing and maintaining:
+
+☁️ Cloud Infrastructure
+🔄 CI/CD Pipelines
+🐳 Containerized Applications
+☸️ Kubernetes Clusters
+🏗️ Infrastructure as Code
+🤖 Automated Systems
+📈 Scalable Platforms
+🎯 My Path
+
+Linux → Git → Docker → CI/CD → Cloud → Terraform → Kubernetes → DevOps → Platform Engineering
+
+🌐 Connect With Me
+
+<div align="center">
+💭 "Automate everything. Build reliable systems."
+</div> ```
