@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Hugo Lino
 
-### 🟣 C# Developer • .NET • Backend Engineering 🇧🇷
+### ☕ Java Developer • Spring Boot • Backend Engineering 🇧🇷
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9B59FF&center=true&vCenter=true&width=600&lines=Building+backend+applications;Learning+C%23+and+.NET;Turning+ideas+into+scalable+systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Building+backend+applications;Learning+Java+and+Spring+Boot;Turning+ideas+into+scalable+systems" />
 
 <br/>
 
@@ -16,36 +16,35 @@
 
 # 🧠 About Me
 
-```csharp
-public class Developer
-{
-    public string Name => "Hugo Lino";
+```java
+public class Developer {
 
-    public string Role =>
+    private final String name = "Hugo Lino";
+
+    private final String role =
         "Backend Developer";
 
-    public string[] Technologies =>
-    [
-        "C#",
-        ".NET",
-        "ASP.NET Core",
+    private final String[] technologies = {
+        "Java",
+        "Spring Boot",
+        "Spring Data JPA",
         "SQL",
         "Docker"
-    ];
+    };
 
-    public string Goal =>
+    private final String goal =
         "Become a great Software Engineer";
 }
 ```
 
 I'm a Brazilian developer focused on **Backend Development and Software Engineering**.
 
-Currently learning how to build modern, scalable and reliable applications using the **.NET ecosystem**.
+Currently learning how to build modern, scalable and reliable applications using the **Java and Spring ecosystem**.
 
 My main interests are:
 
 * ⚡ Backend Development
-* 🟣 C# & .NET
+* ☕ Java & Spring Boot
 * 🌐 APIs
 * 🗄️ Databases
 * 🏗️ Software Architecture
@@ -60,13 +59,13 @@ My main interests are:
 🌐 Client
    │
    ▼
-⚡ ASP.NET Core API
+☕ Spring Boot API
    │
    ▼
 🧠 Business Logic
    │
    ▼
-📦 Entity Framework Core
+📦 Spring Data JPA / Hibernate
    │
    ▼
 🗄️ Database
@@ -80,12 +79,13 @@ I want to understand how applications work **from the API to the infrastructure*
 
 <div align="center">
 
-## 🟣 Programming & Frameworks
+## ☕ Programming & Frameworks
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
 <br/><br/>
 
@@ -100,8 +100,8 @@ I want to understand how applications work **from the API to the infrastructure*
 
 ## 🗄️ Databases
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
@@ -109,11 +109,11 @@ I want to understand how applications work **from the API to the infrastructure*
 
 ## 🏗️ Architecture & Concepts
 
-<img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-ED8B00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SOLID-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dependency_Injection-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Design_Patterns-9370DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CQRS-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -129,8 +129,8 @@ I want to understand how applications work **from the API to the infrastructure*
 
 ## ☁️ Cloud
 
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 </div>
 
@@ -150,13 +150,13 @@ I want to build projects that simulate **real-world backend applications**.
 ⚙️ CI/CD Pipeline
       │
       ▼
-🌐 ASP.NET Core API
+☕ Spring Boot API
       │
       ▼
 🧠 Business Logic
       │
       ▼
-📦 Entity Framework Core
+📦 Spring Data JPA / Hibernate
       │
       ▼
 🗄️ SQL Database
@@ -174,17 +174,16 @@ I want to build projects that simulate **real-world backend applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge"/>
 
 </div>
 
@@ -193,25 +192,27 @@ I want to build projects that simulate **real-world backend applications**.
 # 🗺️ My Roadmap
 
 ```text
-🟣 C#
+☕ Java
    ↓
-⚡ .NET
+📚 Java OOP & Collections
    ↓
-🌐 ASP.NET Core
+🌱 Spring Boot
    ↓
-🔌 REST APIs
+🌐 REST APIs
    ↓
 🗄️ SQL
    ↓
-📦 Entity Framework Core
+📦 Spring Data JPA
    ↓
-🔐 Authentication
+🔐 Spring Security
    ↓
 🏗️ Clean Architecture
    ↓
 🐳 Docker
    ↓
 ☁️ Cloud
+   ↓
+🚀 Microservices
 ```
 
 ---
@@ -222,9 +223,9 @@ Become a **Backend / Software Engineer** capable of building:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/High_Performance_APIs-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Enterprise_Systems-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scalable_Software-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/High_Performance_APIs-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Enterprise_Systems-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalable_Software-FF9800?style=for-the-badge"/>
 
 <br/>
 
@@ -240,23 +241,23 @@ Become a **Backend / Software Engineer** capable of building:
 
 <div align="center">
 
-### 🟣 Backend
+### ☕ Backend
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 
 ### 🗄️ Data
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 ### 🐳 Infrastructure
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
@@ -302,10 +303,10 @@ Become a **Backend / Software Engineer** capable of building:
 
 <br/>
 
-### ⚡ Building today • Learning every day • Becoming better tomorrow
+### ☕ Building today • Learning every day • Becoming better tomorrow
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=fox3y&label=Profile%20Views&color=7B2CBF&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=fox3y&label=Profile%20Views&color=ED8B00&style=flat"/>
 
 </div>
