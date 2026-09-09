@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Hugo Lino
+# ⚙️ Hey, I'm Hugo Lino
 
-### ☕ Java Developer • Spring Boot • Backend Engineering 🇧🇷
+### 🚀 Learning DevOps • Cloud • Automation • Infrastructure 🇧🇷
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Building+backend+applications;Learning+Java+and+Spring+Boot;Turning+ideas+into+scalable+systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Learning+DevOps+and+Cloud;Automating+everything+I+can;Building+reliable+and+scalable+systems;From+code+to+production" />
 
 <br/>
 
-> **"Clean code. Strong architecture. Reliable systems."**
+> **"Automate. Deploy. Monitor. Improve."**
 
 </div>
 
@@ -16,156 +16,266 @@
 
 # 🧠 About Me
 
-```java
-public class Developer {
+```go
+package main
 
-    private final String name = "Hugo Lino";
+type Developer struct {
+    Name    string
+    Current string
+    Goal    string
+}
 
-    private final String role =
-        "Backend Developer";
+func main() {
 
-    private final String[] technologies = {
-        "Java",
-        "Spring Boot",
-        "Spring Data JPA",
-        "SQL",
-        "Docker"
-    };
+    hugo := Developer{
+        Name:    "Hugo Lino",
+        Current: "Learning DevOps, Cloud and Automation",
+        Goal:    "Become a DevOps / Platform Engineer",
+    }
 
-    private final String goal =
-        "Become a great Software Engineer";
+    _ = hugo
 }
 ```
 
-I'm a Brazilian developer focused on **Backend Development and Software Engineering**.
+I'm a Brazilian developer currently learning and building my foundation in:
 
-Currently learning how to build modern, scalable and reliable applications using the **Java and Spring ecosystem**.
+* ⚙️ **DevOps**
+* ☁️ **Cloud Computing**
+* 🐳 **Containers**
+* 🔄 **CI/CD**
+* 🏗️ **Infrastructure as Code**
+* 🤖 **Automation**
+* 🐧 **Linux**
+* 📊 **Monitoring & Observability**
+* 🛠️ **Platform Engineering**
 
-My main interests are:
+I'm interested in understanding what happens **after developers write the code**.
 
-* ⚡ Backend Development
-* ☕ Java & Spring Boot
-* 🌐 APIs
-* 🗄️ Databases
-* 🏗️ Software Architecture
-* 🐳 Containers
-* ☁️ Cloud Computing
+How applications are:
+
+**Built → Tested → Containerized → Deployed → Monitored → Scaled**
 
 ---
 
 # ⚡ My Focus
 
 ```text
-🌐 Client
-   │
-   ▼
-☕ Spring Boot API
-   │
-   ▼
-🧠 Business Logic
-   │
-   ▼
-📦 Spring Data JPA / Hibernate
-   │
-   ▼
-🗄️ Database
-```
-
-I want to understand how applications work **from the API to the infrastructure**.
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-## ☕ Programming & Frameworks
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-
-<br/><br/>
-
-## 🌐 APIs & Backend
-
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-
-<br/><br/>
-
-## 🗄️ Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-<br/><br/>
-
-## 🏗️ Architecture & Concepts
-
-<img src="https://img.shields.io/badge/Clean_Architecture-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dependency_Injection-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design_Patterns-9370DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge"/>
-
-<br/><br/>
-
-## 🐳 Tools & Infrastructure
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<br/><br/>
-
-## ☁️ Cloud
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-</div>
-
----
-
-# 🚀 What I'm Building
-
-I want to build projects that simulate **real-world backend applications**.
-
-```text
 👨‍💻 Developer
       │
       ▼
-🔀 GitHub
+🔀 Git Repository
       │
       ▼
 ⚙️ CI/CD Pipeline
       │
       ▼
-☕ Spring Boot API
-      │
-      ▼
-🧠 Business Logic
-      │
-      ▼
-📦 Spring Data JPA / Hibernate
-      │
-      ▼
-🗄️ SQL Database
+🧪 Tests
       │
       ▼
 🐳 Docker
       │
       ▼
+☸️ Kubernetes
+      │
+      ▼
+☁️ Cloud Infrastructure
+      │
+      ▼
+📊 Monitoring
+      │
+      ▼
+🚀 Reliable Systems
+```
+
+My goal is to understand the complete journey:
+
+**From code → to production.**
+
+---
+
+# 🛠️ DevOps Tech Stack
+
+<div align="center">
+
+## 💻 Programming & Automation
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+## 🐧 Operating Systems
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<br/><br/>
+
+## 🔀 Version Control
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+</div>
+
+---
+
+# 🔄 CI/CD
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+
+</div>
+
+---
+
+# 🐳 Containers & Orchestration
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+<img src="https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black"/>
+
+</div>
+
+---
+
+# ☁️ Cloud Computing
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+
+</div>
+
+---
+
+# 🏗️ Infrastructure as Code
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Infrastructure_as_Code-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Configuration_Management-2F4F4F?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 Monitoring & Observability
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+
+</div>
+
+---
+
+# 🔐 Security & DevSecOps
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DevSecOps-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</div>
+
+---
+
+# 🗄️ Databases & Infrastructure
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-CA2132?style=for-the-badge&logo=apache&logoColor=white"/>
+
+</div>
+
+---
+
+# 🚀 What I Want To Build
+
+I want to create projects that simulate real-world DevOps environments.
+
+```text
+👨‍💻 Application
+      │
+      ▼
+🔀 GitHub Repository
+      │
+      ▼
+⚙️ GitHub Actions
+      │
+      ▼
+🧪 Automated Tests
+      │
+      ▼
+🐳 Docker Image
+      │
+      ▼
+📦 Container Registry
+      │
+      ▼
+☸️ Kubernetes
+      │
+      ▼
+🏗️ Terraform Infrastructure
+      │
+      ▼
 ☁️ Cloud
+      │
+      ▼
+📊 Prometheus + Grafana
+      │
+      ▼
+🚀 Production
 ```
 
 ---
@@ -174,90 +284,132 @@ I want to build projects that simulate **real-world backend applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-00C7B7?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🗺️ My Roadmap
+# 🗺️ My DevOps Roadmap
 
 ```text
-☕ Java
-   ↓
-📚 Java OOP & Collections
-   ↓
-🌱 Spring Boot
-   ↓
-🌐 REST APIs
-   ↓
-🗄️ SQL
-   ↓
-📦 Spring Data JPA
-   ↓
-🔐 Spring Security
-   ↓
-🏗️ Clean Architecture
-   ↓
-🐳 Docker
-   ↓
-☁️ Cloud
-   ↓
-🚀 Microservices
+🐧 Linux Fundamentals
+        │
+        ▼
+🔀 Git & GitHub
+        │
+        ▼
+💻 Bash / Go Automation
+        │
+        ▼
+🐳 Docker & Containers
+        │
+        ▼
+🔄 CI/CD
+        │
+        ▼
+☁️ Cloud Fundamentals
+        │
+        ▼
+🏗️ Terraform
+        │
+        ▼
+🤖 Ansible
+        │
+        ▼
+☸️ Kubernetes
+        │
+        ▼
+📊 Monitoring
+        │
+        ▼
+🔐 DevSecOps
+        │
+        ▼
+🚀 DevOps Engineer
+        │
+        ▼
+🛠️ Platform Engineering
 ```
 
 ---
 
 # 🎯 My Goal
 
-Become a **Backend / Software Engineer** capable of building:
+I'm currently building the skills required to become a:
+
+## ⚙️ DevOps Engineer
+
+and eventually evolve into:
+
+## 🛠️ Platform Engineer
+
+I want to be capable of working with:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/High_Performance_APIs-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Enterprise_Systems-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scalable_Software-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud_Infrastructure-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Containerized_Apps-2496ED?style=for-the-badge"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Secure_Applications-483D8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud_Services-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Containerized_Apps-2496ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Infrastructure_as_Code-844FBA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-00C7B7?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Monitoring-E6522C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reliability-009639?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalable_Systems-326CE5?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🔥 Future Stack
+# 🔥 Future Focus
 
 <div align="center">
 
-### ☕ Backend
+### 🐧 Systems
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
-### 🗄️ Data
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-### 🐳 Infrastructure
+### 🐳 Containers
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+
+### 🏗️ Infrastructure
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+### ☁️ Cloud
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+### 📊 Observability
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 </div>
 
@@ -267,13 +419,13 @@ Become a **Backend / Software Engineer** capable of building:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fox3y&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HLinoF&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fox3y&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLinoF&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fox3y&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HLinoF&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -287,7 +439,7 @@ Become a **Backend / Software Engineer** capable of building:
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://github.com/fox3y">
+<a href="https://github.com/HLinoF">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -297,16 +449,16 @@ Become a **Backend / Software Engineer** capable of building:
 
 <div align="center">
 
-# 🧠 Developer Mindset
+# ⚙️ DevOps Mindset
 
-### 💭 *"First, make it work. Then, make it clean. Finally, make it scalable."*
-
-<br/>
-
-### ☕ Building today • Learning every day • Becoming better tomorrow
+### 💭 *"Automate repetitive work. Build reliable systems. Keep improving."*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=fox3y&label=Profile%20Views&color=ED8B00&style=flat"/>
+### 🚀 Learning today • Building tomorrow • Improving every day
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HLinoF&label=Profile%20Views&color=00C7B7&style=flat"/>
 
 </div>
