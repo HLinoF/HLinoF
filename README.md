@@ -1,14 +1,27 @@
 <div align="center">
 
-# ⚙️ Hey, I'm Hugo Lino
+# 🛡️ Hey, I'm Hugo Lino
 
-### 🚀 Learning DevOps • Cloud • Automation • Infrastructure 🇧🇷
+### 🔐 Learning Cybersecurity • Linux • Networking • Security 🇧🇷
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Learning+DevOps+and+Cloud;Automating+everything+I+can;Building+reliable+and+scalable+systems;From+code+to+production" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Learning+Cybersecurity;Exploring+Linux+and+Networks;Studying+Security+Fundamentals;Building+Security+Projects;Learning+Every+Day" />
 
 <br/>
 
-> **"Automate. Deploy. Monitor. Improve."**
+~~~
+┌──────────────────────────────────────────────┐
+│              SYSTEM INFORMATION              │
+├──────────────────────────────────────────────┤
+│                                              │
+│  USER     : Hugo Lino                        │
+│  FIELD    : Cybersecurity                    │
+│  STATUS   : LEARNING                         │
+│  FOCUS    : SECURITY                         │
+│                                              │
+└──────────────────────────────────────────────┘
+~~~
+
+> **"Learn how systems work. Learn how to protect them."**
 
 </div>
 
@@ -16,267 +29,353 @@
 
 # 🧠 About Me
 
-```go
-package main
+~~~python
+class Hugo:
 
-type Developer struct {
-    Name    string
-    Current string
-    Goal    string
-}
+    def __init__(self):
+        self.name = "Hugo Lino"
+        self.current = "Learning Cybersecurity"
+        self.interests = [
+            "Linux",
+            "Networking",
+            "Cybersecurity",
+            "Programming",
+            "Security Research"
+        ]
+        self.goal = "Become a Cybersecurity Engineer"
 
-func main() {
 
-    hugo := Developer{
-        Name:    "Hugo Lino",
-        Current: "Learning DevOps, Cloud and Automation",
-        Goal:    "Become a DevOps / Platform Engineer",
-    }
+hugo = Hugo()
+~~~
 
-    _ = hugo
-}
-```
+I'm a Brazilian developer currently learning the fundamentals of **Cybersecurity**.
 
-I'm a Brazilian developer currently learning and building my foundation in:
+I'm especially interested in understanding how computers, operating systems and networks work internally.
 
-* ⚙️ **DevOps**
-* ☁️ **Cloud Computing**
-* 🐳 **Containers**
-* 🔄 **CI/CD**
-* 🏗️ **Infrastructure as Code**
-* 🤖 **Automation**
-* 🐧 **Linux**
-* 📊 **Monitoring & Observability**
-* 🛠️ **Platform Engineering**
+Currently, I'm exploring:
 
-I'm interested in understanding what happens **after developers write the code**.
+- 🐧 **Linux**
+- 🌐 **Computer Networks**
+- 🔐 **Cybersecurity Fundamentals**
+- 🕵️ **Ethical Hacking**
+- 🔎 **Vulnerability Analysis**
+- 🌐 **Web Security**
+- 🛡️ **Defensive Security**
+- 🤖 **Security Automation**
+- 💻 **Programming**
 
-How applications are:
-
-**Built → Tested → Containerized → Deployed → Monitored → Scaled**
+I'm still at the beginning of my journey, so my main goal right now is to build a **strong technical foundation** instead of trying to learn everything at once.
 
 ---
 
-# ⚡ My Focus
+# 🎯 What I'm Interested In
 
-```text
-👨‍💻 Developer
-      │
-      ▼
-🔀 Git Repository
-      │
-      ▼
-⚙️ CI/CD Pipeline
-      │
-      ▼
-🧪 Tests
-      │
-      ▼
-🐳 Docker
-      │
-      ▼
-☸️ Kubernetes
-      │
-      ▼
-☁️ Cloud Infrastructure
-      │
-      ▼
-📊 Monitoring
-      │
-      ▼
-🚀 Reliable Systems
-```
+~~~text
+                 CYBERSECURITY
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+        ▼              ▼              ▼
+     SYSTEMS        NETWORKS          WEB
+        │              │              │
+        ▼              ▼              ▼
+      Linux       TCP/IP, DNS      HTTP/HTTPS
+        │          Protocols          │
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                       ▼
+                 SECURITY
+                       │
+             ┌─────────┴─────────┐
+             ▼                   ▼
+        OFFENSIVE              DEFENSIVE
+        SECURITY               SECURITY
+~~~
 
-My goal is to understand the complete journey:
+I want to gradually understand both sides of security:
 
-**From code → to production.**
+**How systems can be attacked → How they can be protected.**
 
 ---
 
-# 🛠️ DevOps Tech Stack
+# 🐧 Linux
 
 <div align="center">
 
-## 💻 Programming & Automation
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br/><br/>
-
-## 🐧 Operating Systems
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-<br/><br/>
-
-## 🔀 Version Control
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-050805?style=for-the-badge&logo=linux&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Kali_Linux-050805?style=for-the-badge&logo=kalilinux&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Ubuntu-050805?style=for-the-badge&logo=ubuntu&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Bash-050805?style=for-the-badge&logo=gnubash&logoColor=00FF66"/>
 
 </div>
 
+### Currently studying
+
+~~~text
+Linux
+ ├── Filesystem
+ ├── Permissions
+ ├── Users & Groups
+ ├── Processes
+ ├── Services
+ ├── Shell
+ ├── Networking
+ └── Basic System Security
+~~~
+
+Linux is one of the areas I want to understand well because it is heavily used in servers, infrastructure and security environments.
+
 ---
 
-# 🔄 CI/CD
+# 🌐 Networking
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-
-</div>
-
----
-
-# 🐳 Containers & Orchestration
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/DNS-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/SSH-050805?style=for-the-badge&logoColor=00FF66"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
-<img src="https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firewalls-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/VPN-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Network_Security-050805?style=for-the-badge&logoColor=00FF66"/>
 
 </div>
 
+~~~text
+Application
+     │
+     ▼
+   HTTP
+     │
+     ▼
+    TCP
+     │
+     ▼
+     IP
+     │
+     ▼
+  Network
+~~~
+
+I'm studying networking because understanding how machines communicate is an important part of understanding security.
+
 ---
 
-# ☁️ Cloud Computing
+# 🔐 Cybersecurity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Security_Engineering-050805?style=for-the-badge&logoColor=00FF66"/>
 
 </div>
 
+### Areas I'm exploring
+
+~~~text
+Security Fundamentals
+       │
+       ├── Authentication
+       ├── Authorization
+       ├── Encryption
+       ├── Network Security
+       ├── Web Security
+       ├── Vulnerabilities
+       ├── System Hardening
+       └── Security Best Practices
+~~~
+
+My current focus is learning the concepts behind security before going deeper into specialized areas.
+
 ---
 
-# 🏗️ Infrastructure as Code
+# 🕷️ Ethical Hacking
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Infrastructure_as_Code-00C7B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Configuration_Management-2F4F4F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Wireshark-050805?style=for-the-badge&logo=wireshark&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Burp_Suite-050805?style=for-the-badge&logoColor=FF5A00"/>
+<img src="https://img.shields.io/badge/Metasploit-050805?style=for-the-badge&logoColor=00FF66"/>
 
 </div>
 
+I'm interested in learning how security professionals analyze systems in **authorized environments and laboratories**.
+
+~~~text
+Reconnaissance
+      ↓
+Enumeration
+      ↓
+Vulnerability Analysis
+      ↓
+Testing
+      ↓
+Documentation
+      ↓
+Remediation
+~~~
+
+> ⚠️ Security testing should always be performed on systems you own or have explicit permission to test.
+
 ---
 
-# 📊 Monitoring & Observability
+# 🌐 Web Security
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-050805?style=for-the-badge&logo=owasp&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/HTTP-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/API_Security-050805?style=for-the-badge&logoColor=00FF66"/>
 
 </div>
 
+### Topics I'm interested in
+
+~~~text
+Web Security
+ ├── Authentication
+ ├── Authorization
+ ├── Sessions
+ ├── Input Validation
+ ├── APIs
+ ├── OWASP Top 10
+ └── Secure Development
+~~~
+
 ---
 
-# 🔐 Security & DevSecOps
+# 🐍 Programming
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DevSecOps-00C7B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-050805?style=for-the-badge&logo=python&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/C-050805?style=for-the-badge&logo=c&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/C%2B%2B-050805?style=for-the-badge&logo=c%2B%2B&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Bash-050805?style=for-the-badge&logo=gnubash&logoColor=00FF66"/>
 
 </div>
 
+Programming is part of my cybersecurity journey.
+
+I'm interested in using programming to understand systems and eventually build my own security tools and automation.
+
+~~~text
+Programming
+    │
+    ├── Python
+    │      └── Automation
+    │
+    ├── C
+    │      └── Low-Level Concepts
+    │
+    ├── C++
+    │      └── Systems Programming
+    │
+    └── Bash
+           └── Linux Automation
+~~~
+
 ---
 
-# 🗄️ Databases & Infrastructure
+# 🧰 Tools I'm Exploring
 
-<div align="center">
+~~~text
+┌──────────────────────────────────────────────┐
+│              SECURITY TOOLBOX                │
+├──────────────────────────────────────────────┤
+│                                              │
+│  🐧 Linux                                    │
+│  🔎 Nmap                                     │
+│  🦈 Wireshark                                │
+│  🕷️ Burp Suite                               │
+│  🔐 Metasploit                               │
+│  🌐 Gobuster                                 │
+│  🐍 Python                                   │
+│  💻 Bash                                     │
+│                                              │
+└──────────────────────────────────────────────┘
+~~~
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-CA2132?style=for-the-badge&logo=apache&logoColor=white"/>
-
-</div>
+These are tools I'm **learning about**, not claiming professional expertise with them.
 
 ---
 
-# 🚀 What I Want To Build
+# 🔥 Projects I Want To Build
 
-I want to create projects that simulate real-world DevOps environments.
+I want to create small projects that help me understand cybersecurity concepts through practice.
 
-```text
-👨‍💻 Application
-      │
-      ▼
-🔀 GitHub Repository
-      │
-      ▼
-⚙️ GitHub Actions
-      │
-      ▼
-🧪 Automated Tests
-      │
-      ▼
-🐳 Docker Image
-      │
-      ▼
-📦 Container Registry
-      │
-      ▼
-☸️ Kubernetes
-      │
-      ▼
-🏗️ Terraform Infrastructure
-      │
-      ▼
-☁️ Cloud
-      │
-      ▼
-📊 Prometheus + Grafana
-      │
-      ▼
-🚀 Production
-```
+~~~text
+01 → Network Scanner
+
+02 → Port Scanner
+
+03 → Log Analyzer
+
+04 → File Integrity Monitor
+
+05 → Password Security Checker
+
+06 → HTTP Security Analyzer
+
+07 → Network Packet Analyzer
+
+08 → Security Automation Scripts
+
+09 → Vulnerability Lab
+
+10 → Small SIEM Project
+~~~
+
+The idea is to learn the concepts behind each project instead of simply copying existing tools.
+
+---
+
+# 🗺️ Cybersecurity Roadmap
+
+~~~text
+🐧 Linux Fundamentals
+        │
+        ▼
+🌐 Networking Fundamentals
+        │
+        ▼
+🐍 Python
+        │
+        ▼
+💻 C / C++
+        │
+        ▼
+🔐 Security Fundamentals
+        │
+        ▼
+🌐 Web Security
+        │
+        ▼
+🔎 Reconnaissance
+        │
+        ▼
+🧬 Vulnerability Analysis
+        │
+        ▼
+🕷️ Ethical Hacking
+        │
+        ▼
+🛡️ Defensive Security
+        │
+        ▼
+🤖 Security Automation
+        │
+        ▼
+☠️ Cybersecurity Engineering
+~~~
+
+I'm taking this step by step and focusing on understanding the fundamentals before specializing.
 
 ---
 
@@ -284,134 +383,78 @@ I want to create projects that simulate real-world DevOps environments.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-050805?style=for-the-badge&logo=linux&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Networking-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Python-050805?style=for-the-badge&logo=python&logoColor=00FF66"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bash-050805?style=for-the-badge&logo=gnubash&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Git-050805?style=for-the-badge&logo=git&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/C-050805?style=for-the-badge&logo=c&logoColor=00FF66"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-050805?style=for-the-badge&logo=c%2B%2B&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Cybersecurity-050805?style=for-the-badge&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Linux_Security-050805?style=for-the-badge&logoColor=00FF66"/>
 
 </div>
-
----
-
-# 🗺️ My DevOps Roadmap
-
-```text
-🐧 Linux Fundamentals
-        │
-        ▼
-🔀 Git & GitHub
-        │
-        ▼
-💻 Bash / Go Automation
-        │
-        ▼
-🐳 Docker & Containers
-        │
-        ▼
-🔄 CI/CD
-        │
-        ▼
-☁️ Cloud Fundamentals
-        │
-        ▼
-🏗️ Terraform
-        │
-        ▼
-🤖 Ansible
-        │
-        ▼
-☸️ Kubernetes
-        │
-        ▼
-📊 Monitoring
-        │
-        ▼
-🔐 DevSecOps
-        │
-        ▼
-🚀 DevOps Engineer
-        │
-        ▼
-🛠️ Platform Engineering
-```
 
 ---
 
 # 🎯 My Goal
 
-I'm currently building the skills required to become a:
+My current goal is to build a strong foundation in cybersecurity and eventually become a:
 
-## ⚙️ DevOps Engineer
+## 🛡️ Cybersecurity Engineer
 
-and eventually evolve into:
+I'm particularly interested in:
 
-## 🛠️ Platform Engineer
+~~~text
+🔐 Security Engineering
 
-I want to be capable of working with:
+🌐 Network Security
 
-<div align="center">
+🕷️ Offensive Security
 
-<img src="https://img.shields.io/badge/Cloud_Infrastructure-00C7B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Containerized_Apps-2496ED?style=for-the-badge"/>
+🛡️ Defensive Security
 
-<br/>
+🧬 Vulnerability Research
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Infrastructure_as_Code-844FBA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-00C7B7?style=for-the-badge"/>
+🐧 Systems & Linux
 
-<br/>
+🤖 Security Automation
+~~~
 
-<img src="https://img.shields.io/badge/Monitoring-E6522C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reliability-009639?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scalable_Systems-326CE5?style=for-the-badge"/>
-
-</div>
+For now, I'm focused on **learning, experimenting and building projects**.
 
 ---
 
-# 🔥 Future Focus
+# 🧠 My Learning Philosophy
 
-<div align="center">
+~~~text
+        LEARN
+          │
+          ▼
+      UNDERSTAND
+          │
+          ▼
+       PRACTICE
+          │
+          ▼
+        BUILD
+          │
+          ▼
+       ANALYZE
+          │
+          ▼
+       IMPROVE
+          │
+          └───────────────► REPEAT
+~~~
 
-### 🐧 Systems
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-### 🐳 Containers
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-
-### 🏗️ Infrastructure
-
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-
-### ☁️ Cloud
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-### 📊 Observability
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
-</div>
+> **"I don't want to just use the tools. I want to understand how they work."**
 
 ---
 
@@ -419,13 +462,13 @@ I want to be capable of working with:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HLinoF&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HLinoF&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF66&icon_color=00FF66&text_color=9CBAA5"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLinoF&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLinoF&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF66&text_color=9CBAA5"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HLinoF&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HLinoF&theme=dark&hide_border=true&background=050805&ring=00FF66&fire=FF003C&currStreakLabel=00FF66&sideLabels=9CBAA5&dates=56705F"/>
 
 </div>
 
@@ -435,12 +478,12 @@ I want to be capable of working with:
 
 <div align="center">
 
-<a href="https://www.youtube.com/@Olinuh_apenas">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://github.com/HLinoF">
+<img src="https://img.shields.io/badge/GitHub-050805?style=for-the-badge&logo=github&logoColor=00FF66"/>
 </a>
 
-<a href="https://github.com/HLinoF">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.youtube.com/@Olinuh_apenas">
+<img src="https://img.shields.io/badge/YouTube-050805?style=for-the-badge&logo=youtube&logoColor=FF003C"/>
 </a>
 
 </div>
@@ -449,16 +492,28 @@ I want to be capable of working with:
 
 <div align="center">
 
-# ⚙️ DevOps Mindset
+~~~text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│              [ LEARNING IN PROGRESS ]              │
+│                                                    │
+│  USER      : Hugo Lino                             │
+│  FIELD     : Cybersecurity                         │
+│  STATUS    : LEARNING                              │
+│  FOCUS     : SECURITY                              │
+│                                                    │
+│  ────────────────────────────────────────────────  │
+│                                                    │
+│  "Learn how systems work.                          │
+│   Learn how to protect them."                     │
+│                                                    │
+└────────────────────────────────────────────────────┘
+~~~
 
-### 💭 *"Automate repetitive work. Build reliable systems. Keep improving."*
+### 🔐 Learning • Building • Improving
 
 <br/>
 
-### 🚀 Learning today • Building tomorrow • Improving every day
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=HLinoF&label=Profile%20Views&color=00C7B7&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=HLinoF&label=PROFILE%20VIEWS&color=00FF66&style=flat"/>
 
 </div>
