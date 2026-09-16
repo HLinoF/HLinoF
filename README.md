@@ -1,14 +1,14 @@
 <div align="center">
 
-# ⚙️ Hey, I'm Hugo Lino
+# 🛡️ Hey, I'm Hugo Lino
 
-### 🚀 Learning DevOps • Linux • Cloud • Automation 🇧🇷
+### 🔐 Learning Cybersecurity • Linux • Networking 🇧🇷
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Learning+DevOps;Exploring+Linux;Studying+Cloud;Learning+Docker+and+CI%2FCD;Building+and+Automating" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Learning+Cybersecurity;Exploring+Linux;Studying+Networking;Learning+Security+Fundamentals;Building+Security+Projects" />
 
 <br>
 
-> **"Learn. Automate. Deploy. Improve."**
+> **"Learn how systems work. Learn how to protect them."**
 
 </div>
 
@@ -21,30 +21,29 @@ class Hugo:
 
     def __init__(self):
         self.name = "Hugo Lino"
-        self.current = "Learning DevOps"
+        self.current = "Learning Cybersecurity"
         self.learning = [
             "Linux",
-            "Docker",
-            "CI/CD",
-            "Cloud",
-            "Automation"
+            "Networking",
+            "Cybersecurity",
+            "Python",
+            "Security Fundamentals"
         ]
-        self.goal = "Become a DevOps Engineer"
+        self.goal = "Become a Cybersecurity Engineer"
 ~~~
 
-I'm a Brazilian developer currently **studying DevOps and Cloud Infrastructure**.
+I'm a Brazilian developer currently **studying Cybersecurity**.
 
-I'm interested in understanding how applications are deployed, automated and maintained.
+I'm interested in understanding how systems, networks and applications work, with a focus on security.
 
 ### 📚 Currently Learning
 
 - 🐧 Linux
-- 🐳 Docker
-- 🔄 CI/CD
-- ☁️ Cloud
-- 🏗️ Terraform
-- 🌿 Git & GitHub
-- ⚙️ Automation
+- 🌐 Networking
+- 🔐 Cybersecurity Fundamentals
+- 🐍 Python
+- 🕵️ Ethical Hacking
+- 🛡️ Security
 
 ---
 
@@ -52,50 +51,46 @@ I'm interested in understanding how applications are deployed, automated and mai
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Linux-0B1117?style=for-the-badge&logo=linux&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Docker-0B1117?style=for-the-badge&logo=docker&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Git-0B1117?style=for-the-badge&logo=git&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Python-0B1117?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/AWS-0B1117?style=for-the-badge&logo=amazonaws&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Terraform-0B1117?style=for-the-badge&logo=terraform&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0B1117?style=for-the-badge&logo=githubactions&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Kubernetes-0B1117?style=for-the-badge&logo=kubernetes&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Linux-050805?style=for-the-badge&logo=linux&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Python-050805?style=for-the-badge&logo=python&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/C-050805?style=for-the-badge&logo=c&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/C%2B%2B-050805?style=for-the-badge&logo=c%2B%2B&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Git-050805?style=for-the-badge&logo=git&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Bash-050805?style=for-the-badge&logo=gnubash&logoColor=00FF66"/>
 
 </div>
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🎯 Learning Roadmap
 
 ~~~text
 Linux
   ↓
 Networking
   ↓
-Git & GitHub
+Python
   ↓
-Docker
+Security Fundamentals
   ↓
-CI/CD
+Web Security
   ↓
-Cloud
+Ethical Hacking
   ↓
-Terraform
+Defensive Security
   ↓
-Kubernetes
-  ↓
-Monitoring
-  ↓
-DevOps Engineering
+Cybersecurity Engineering
 ~~~
 
 ---
 
 ## 🎯 Goal
 
-### ⚙️ Become a DevOps Engineer
+### 🛡️ Become a Cybersecurity Engineer
 
-**Learning → Building → Automating → Improving**
+**Learning → Practicing → Building → Improving**
+
+I'm currently focused on **building strong fundamentals** and learning through practical projects.
 
 ---
 
@@ -103,9 +98,9 @@ DevOps Engineering
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HLinoF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1117&title_color=00BFFF&icon_color=00BFFF&text_color=9CA3AF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HLinoF&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF66&icon_color=00FF66&text_color=9CBAA5"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLinoF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1117&title_color=00BFFF&text_color=9CA3AF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLinoF&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050805&title_color=00FF66&text_color=9CBAA5"/>
 
 </div>
 
@@ -113,14 +108,14 @@ DevOps Engineering
 
 <div align="center">
 
-### ⚙️ Learning • Building • Automating
+### 🔐 Learning • Building • Improving
 
 <a href="https://github.com/HLinoF">
-<img src="https://img.shields.io/badge/GitHub-0B1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/GitHub-050805?style=for-the-badge&logo=github&logoColor=00FF66"/>
 </a>
 
 <a href="https://www.youtube.com/@Olinuh_apenas">
-<img src="https://img.shields.io/badge/YouTube-0B1117?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/YouTube-050805?style=for-the-badge&logo=youtube&logoColor=FF003C"/>
 </a>
 
 </div>
