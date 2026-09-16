@@ -4,7 +4,7 @@
 
 ### 🚀 Learning DevOps • Linux • Cloud • Automation 🇧🇷
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Learning+DevOps;Exploring+Linux;Studying+Cloud+Infrastructure;Learning+Docker+and+CI%2FCD;Automating+and+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Learning+DevOps;Exploring+Linux;Studying+Cloud;Learning+Docker+and+CI%2FCD;Building+and+Automating" />
 
 <br>
 
@@ -30,14 +30,11 @@ class Hugo:
             "Automation"
         ]
         self.goal = "Become a DevOps Engineer"
-
-
-hugo = Hugo()
 ~~~
 
 I'm a Brazilian developer currently **studying DevOps and Cloud Infrastructure**.
 
-I'm interested in understanding how applications are built, deployed, automated and maintained.
+I'm interested in understanding how applications are deployed, automated and maintained.
 
 ### 📚 Currently Learning
 
@@ -48,7 +45,6 @@ I'm interested in understanding how applications are built, deployed, automated 
 - 🏗️ Terraform
 - 🌿 Git & GitHub
 - ⚙️ Automation
-- 🐍 Python / Bash
 
 ---
 
@@ -60,19 +56,16 @@ I'm interested in understanding how applications are built, deployed, automated 
 <img src="https://img.shields.io/badge/Docker-0B1117?style=for-the-badge&logo=docker&logoColor=00BFFF"/>
 <img src="https://img.shields.io/badge/Git-0B1117?style=for-the-badge&logo=git&logoColor=00BFFF"/>
 <img src="https://img.shields.io/badge/Python-0B1117?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/GitHub_Actions-0B1117?style=for-the-badge&logo=githubactions&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Terraform-0B1117?style=for-the-badge&logo=terraform&logoColor=00BFFF"/>
 <img src="https://img.shields.io/badge/AWS-0B1117?style=for-the-badge&logo=amazonaws&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Terraform-0B1117?style=for-the-badge&logo=terraform&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0B1117?style=for-the-badge&logo=githubactions&logoColor=00BFFF"/>
 <img src="https://img.shields.io/badge/Kubernetes-0B1117?style=for-the-badge&logo=kubernetes&logoColor=00BFFF"/>
 
 </div>
 
 ---
 
-## 🗺️ My Learning Path
+## 🗺️ Learning Roadmap
 
 ~~~text
 Linux
@@ -96,15 +89,11 @@ Monitoring
 DevOps Engineering
 ~~~
 
-I'm currently focused on **learning the fundamentals, building projects and practicing automation**.
-
 ---
 
 ## 🎯 Goal
 
 ### ⚙️ Become a DevOps Engineer
-
-For now:
 
 **Learning → Building → Automating → Improving**
 
@@ -122,9 +111,9 @@ For now:
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
+
+### ⚙️ Learning • Building • Automating
 
 <a href="https://github.com/HLinoF">
 <img src="https://img.shields.io/badge/GitHub-0B1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
@@ -133,9 +122,5 @@ For now:
 <a href="https://www.youtube.com/@Olinuh_apenas">
 <img src="https://img.shields.io/badge/YouTube-0B1117?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
-
-<br><br>
-
-### ⚙️ Learning • Building • Automating
 
 </div>
