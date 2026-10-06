@@ -81,7 +81,6 @@ I'm currently focusing on **Python, Java, Spring Boot and Go**, while building m
 <img src="https://img.shields.io/badge/Java-050805?style=for-the-badge&logo=openjdk&logoColor=00FFAA"/>
 <img src="https://img.shields.io/badge/Go-050805?style=for-the-badge&logo=go&logoColor=00FFAA"/>
 <img src="https://img.shields.io/badge/C-050805?style=for-the-badge&logo=c&logoColor=00FFAA"/>
-<img src="https://img.shields.io/badge/C%2B%2B-050805?style=for-the-badge&logo=c%2B%2B&logoColor=00FFAA"/>
 
 ### Backend & APIs
 
